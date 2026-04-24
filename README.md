@@ -4,11 +4,11 @@
 
 #### Chạy thử:
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-23-29-51-2026-04-24-23-24-51-image.png)
+![](./img/1.png)
 
 #### Kết quả:
 
-<img src="file:///C:/Users/nghia/AppData/Roaming/marktext/images/2026-04-24-23-31-35-image.png" title="" alt="" width="533">
+<img title="" src="./img/2.png" alt="" width="533">
 
 ### ## Hướng dẫn nhanh
 
@@ -31,27 +31,27 @@ pip install -r requirements.txt
 
 #### 3. Gỡ lỗi USB, bật Chế độ nhà phát triển trên ĐT, connect với điện thoại
 
-<img src="file:///C:/Users/nghia/AppData/Roaming/marktext/images/2026-04-24-20-38-49-image.png" title="" alt="" width="376">
+<img title="" src="./img/3.png" alt="" width="376">
 
 #### 4. Mở app Circle K - giao dịch
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-20-39-43-image.png)
+![](./img/4.png)
 
 #### 5. Mở Http Toolkit - bật Android Device via ADB
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-20-41-53-image.png)
+![](./img/6.png)
 
 #### 6. Lấy API transaction
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-20-42-52-image.png)
+![](./img/7.png)
 
 #### 7. Lấy token (Đã login trong app Circle K và bật app)
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-21-27-57-Untitled.png)
+![](./img/8.png)
 
 #### 8. Coppy và dán token
 
-![](C:\Users\nghia\AppData\Roaming\marktext\images\2026-04-24-21-28-50-image.png)
+![](./img/9.png)
 
 #### 9. Chạy python ở powershell
 
