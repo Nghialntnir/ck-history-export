@@ -4,7 +4,7 @@ import time
 import random
 
 # --- CẤU HÌNH ---
-TOKEN = "1150039|ToMJHLPxB1JQBuqYHCCowTdnle0f1mLdPV69XgiY3a9c2109"
+TOKEN = ""
 BASE_URL = "http://p-app.circlek.com.vn/api/transaction-points"
 FILE_NAME = "circlek_transactions.xlsx"
 
@@ -58,7 +58,7 @@ def fetch_transactions():
         if not success:
             print(f"Test fail 3 times {current_page}. Skip to next page.")
             if current_page == 1:
-                total_pages = 40 
+                total_pages = 70 
         
         current_page += 1
         wait = random.uniform(30, 45)
